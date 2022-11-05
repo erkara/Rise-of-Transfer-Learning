@@ -1,0 +1,22 @@
+{
+  "prompts": [
+    "old rusty motorbike, dirty road, 19th century",
+    "a futuristic flying motorbike, outer space, 4K"
+  ],
+  "seeds": [
+    42,
+    1337
+  ],
+  "num_interpolation_steps": [
+    100
+  ],
+  "fps": 30,
+  "num_inference_steps": 50,
+  "guidance_scale": 5,
+  "eta": 0.0,
+  "upsample": false,
+  "height": 512,
+  "width": 512,
+  "audio_filepath": null,
+  "audio_start_sec": 0
+}
