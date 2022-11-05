@@ -34,5 +34,7 @@ Pay special attention to section2,3 and 4. Try out different prompts. Remember, 
 If you dont want to deal with all these Python hussles and just try out these tools in a browser, here are the links. Look around in these websites, you will find amazing models, espcially in OpenAI website. I would be very happy to see your pictures from Stable Diffusion. Shoot me an email at erdikara@spelman.edu, enjoy!
 
 1- [Stable Diffusion by HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+
 2- [GPT by OpenAI](https://beta.openai.com/playground)
+
 3- [Whisper](https://huggingface.co/openai/whisper-large)
