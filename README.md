@@ -10,7 +10,7 @@ step1: create a Conda environment from environment.yml file.
 >conda env create -f environment.yml
 
 step2: activate your environment
->conda activate coolmodels
+>conda activate myenv
 
 step3: get YOLO repository
 >git clone https://github.com/ultralytics/yolov5.git
