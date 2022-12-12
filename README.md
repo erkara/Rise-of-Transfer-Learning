@@ -1,6 +1,5 @@
 # EmoryTalk
-This is the repository of my talk **"The Rise of Transfer Learning; YOLO, GPT3 and Stable Diffusion"**
-in Emory University Atlanta Undergraduate Research Mathematics Seminar. There are examples of YOLO, Stable Diffusion, GPT3 and Whisper in "models.ipynb". I highly encourage you to play espcially in the last three ones.
+"Explore the latest advancements in AI with YOLO, GPT3, Stable Diffusion and Whisper. This repository includes all the material from my talkfrom Emory University's Atlanta Undergraduate Research Mathematics Seminar. See examples of these cutting-edge models in action and try them out yourself."
 
 ## I want full freedom, I will use Python
 
