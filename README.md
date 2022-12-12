@@ -1,5 +1,4 @@
 # EmoryTalk
-
 This is the repository of my talk **"The Rise of Transfer Learning; YOLO, GPT3 and Stable Diffusion"**
 in Emory University Atlanta Undergraduate Research Mathematics Seminar. There are examples of YOLO, Stable Diffusion, GPT3 and Whisper in "models.ipynb". I highly encourage you to play espcially in the last three ones.
 
