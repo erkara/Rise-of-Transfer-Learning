@@ -1,4 +1,4 @@
-# EmoryTalk
+# Rise-of-Transfer-Learning
 "Explore the latest advancements in AI with YOLO, GPT3, Stable Diffusion and Whisper. This repository includes all the material from my talkfrom Emory University's Atlanta Undergraduate Research Mathematics Seminar. See examples of these cutting-edge models in action and try them out yourself."
 
 ## I want full freedom, I will use Python
