@@ -3,7 +3,7 @@
 
 ## I want full freedom, I will use Python
 
-Clone this repository and navigate to "EmoryTalk" folder. First install Conda [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html). Then do the following from your terminal;
+Clone this repository and navigate to "Rise-of-Transfer-Learning" folder. First install Conda [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html). Then do the following from your terminal;
 
 step1: create a Conda environment from environment.yml file.
 >conda env create -f environment.yml
